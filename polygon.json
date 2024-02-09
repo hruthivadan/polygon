@@ -1,0 +1,136 @@
+{
+    "id": "ethereum",
+    "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.",
+    "tags": [
+        "pos",
+        "smart contracts",
+        "ethereum ecosystem",
+        "layer 1",
+        "evm"
+    ],
+    "coin_details": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "logo": "logo/ethereum.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L1"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://ethereum.org/en/",
+        "whitepaper": "https://ethereum.org/en/whitepaper/",
+        "documentation": "https://ethereum.org/en/developers/docs/",
+        "forum": "https://ethereum-magicians.org/",
+        "github": "https://github.com/ethereum/go-ethereum"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/ethereum-org",
+        "twitter": "https://twitter.com/ethereum",
+        "reddit": "https://reddit.com/r/ethereum",
+        "community": "https://ethereum.org/community/online",
+        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/ethereum"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Ethereum"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/ethereum/"
+        }
+    ],
+    "explorers": [        
+        {
+            "name": "Blockchair",
+            "url": "https://blockchair.com/ethereum"
+        },
+        {
+            "name": "OKLink",
+            "url": "https://www.oklink.com/eth"
+        },
+        {
+            "name": "3xpl",
+            "url": "https://3xpl.com/ethereum"
+        },
+        {
+            "name": "BlockSec",
+            "url": "https://phalcon.blocksec.com/explorer"
+        },
+        {
+            "name": "Tenderly",
+            "url": "https://dashboard.tenderly.co/explorer"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Layer Zero",
+            "url": "https://layerzero.network/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://ethereum.org/en/bug-bounty/"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Alchemy",
+            "url": "https://goerlifaucet.com"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Safe",
+            "url": "https://safe.global/"
+        },
+        {
+            "name": "Coinbase Wallet",
+            "url": "https://www.coinbase.com/wallet"
+        },
+        {
+            "name": "OKX",
+            "url": "https://www.okx.com/web3"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "API3",
+            "url": "https://api3.org/"
+        },
+        {
+            "name": "DIA",
+            "url": "https://diadata.org/"
+        },
+        {
+            "name": "Chronicle",
+            "url": "https://chroniclelabs.org/"
+        }
+    ]
+}
